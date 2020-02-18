@@ -1,0 +1,48 @@
+[
+  {
+    "1": " Which of the following Indian player have got first \"Man of the Tournament\" Award in the ICC Cricket World Cup?",
+    "2": "Which of the following country has hosted the ICC World Cup most times?",
+    "3": "How many teams participated in the ICC World Cup 2019?",
+    "4": "Who was the captain of the Indian cricket team in the ICC World Cup 2007?",
+    "5": "When was first ICC cricket World Cup started?"
+  },
+  {
+    "1": {
+      "a": "Sachin Tendulkar",
+      "b": "Yuvraj Singh",
+      "c": "Mohinder Amarnath",
+      "d": "M.S. Dhoni"
+    },
+    "2": {
+      "a": "ENG",
+      "b": "IND",
+      "c": "AUS",
+      "d": "RSA"
+    },
+    "3": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "12"
+    },
+    "4": {
+      "a": "Sachin Tendulkar",
+      "b": "Yuvraj Singh",
+      "c": "Mohinder Amarnath",
+      "d": "M.S. Dhoni"
+    },
+    "5": {
+      "a": "1972",
+      "b": "1975",
+      "c": "1983",
+      "d": "1960"
+    }
+  },
+  {
+    "1": "Sachin Tendulkar",
+    "2": "ENG",
+    "3": "10",
+    "4": "M.S. Dhoni",
+    "5": "1975"
+  }
+]

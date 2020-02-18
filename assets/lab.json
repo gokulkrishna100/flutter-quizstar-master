@@ -1,0 +1,48 @@
+[
+  {
+    "1": "Which one of the following waves are used by the common TV remote control?",
+    "2": "Given bellow are the psychological manifestations of noise pollution.",
+    "3": "Which gas is safe and an effective extinguisher for all confined fires?",
+    "4": "Which one of the following elements the drum of a Photostat machine is made up of:",
+    "5": "In poorly ventilated buildings which one of the following inert gases can be accumulated??"
+  },
+  {
+    "1": {
+      "a": "Radio waves",
+      "b": "Lasers",
+      "c": "Infrared waves",
+      "d": "Ultrasonic waves"
+    },
+    "2": {
+      "a": "Constriction of blood vessels",
+      "b": "Increase in the rate of heart beat",
+      "c": "Digestive spasms",
+      "d": "All of the Above."
+    },
+    "3": {
+      "a": "NO2",
+      "b": "CO2",
+      "c": "SO2",
+      "d": "none"
+    },
+    "4": {
+      "a": "Aluminium",
+      "b": "Selenium",
+      "c": "Barium",
+      "d": "Caesium"
+    },
+    "5": {
+      "a": "Helium",
+      "b": "Neon",
+      "c": "Argon",
+      "d": "Radon"
+    }
+  },
+  {
+    "1": "Infrared waves",
+    "2": "All of the Above.",
+    "3": "CO2",
+    "4": "Selenium",
+    "5": "Radon"
+  }
+]
