@@ -114,7 +114,7 @@ class _resultpageState extends State<resultpage> {
                 ),
         RaisedButton(
              onPressed: () async => await launch(
-    "https://wa.me/${8610362415}?text="+marks.toString()),
+    "https://wa.me/${918610362415}?text="+marks.toString()),
     child: Text('Open Whatsapp'),
     ),
               ],
